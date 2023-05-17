@@ -1,0 +1,8 @@
+C:\Users\STUDENTS-1409-1\Desktop\GBT\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\STUDENTS-1409-1\Desktop\GBT\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\STUDENTS-1409-1\Desktop\GBT\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\STUDENTS-1409-1\Desktop\GBT\ConsoleApp1\obj\Debug\Nemci.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1409-1\Desktop\GBT\ConsoleApp1\obj\Debug\Nemci.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-1409-1\Desktop\GBT\ConsoleApp1\obj\Debug\Nemci.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-1\Desktop\GBT\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\STUDENTS-1409-1\Desktop\GBT\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
