@@ -1,0 +1,8 @@
+C:\Users\gabri\source\repos\Nemci\Nemci\bin\Debug\Nemci.exe.config
+C:\Users\gabri\source\repos\Nemci\Nemci\bin\Debug\Nemci.exe
+C:\Users\gabri\source\repos\Nemci\Nemci\bin\Debug\Nemci.pdb
+C:\Users\gabri\source\repos\Nemci\Nemci\obj\Debug\Nemci.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\Nemci\Nemci\obj\Debug\Nemci.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\source\repos\Nemci\Nemci\obj\Debug\Nemci.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\Nemci\Nemci\obj\Debug\Nemci.exe
+C:\Users\gabri\source\repos\Nemci\Nemci\obj\Debug\Nemci.pdb
